@@ -1,0 +1,6 @@
+﻿COUNT=367
+  - name: 🇷🇴RO_1|22KB/s|0%|TK-RO|YT-CN|NF|GPT⁺-RO|CL-RO|SP-RO
+  - name: 🇷🇴RO_2|39KB/s|TK-RO|NF|GPT⁺-RO|GM-RO|CL-RO|SP-RO
+  - name: 🇷🇴RO_3|21KB/s|0%|TK-RO|YT-US|GPT⁺-RO|CL-RO|SP-RO
+  - name: 🇷🇴RO_4|23KB/s|0%|TK-RO|YT-CN|GPT⁺-RO|CL-RO|SP-RO
+  - name: 🇷🇴RO_5|59KB/s|0%|TK-RO|YT-US|GPT⁺-RO|CL-RO|SP-RO

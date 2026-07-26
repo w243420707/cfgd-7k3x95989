@@ -6624,6 +6624,17 @@ proxy-groups:
     proxies:
       - REJECT
       - DIRECT
+  - name: 🍃 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - DIRECT
 
 rule-providers:
   LocalAreaNetwork:
